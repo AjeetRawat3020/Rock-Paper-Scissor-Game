@@ -25,3 +25,7 @@ A simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.
 
 
 ### Ajeet Singh Rawat
+
+
+![image](https://github.com/user-attachments/assets/98eab084-a2a0-472a-8591-005218ed0796)
+
